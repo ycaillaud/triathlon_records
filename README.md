@@ -11,3 +11,23 @@
 # M
 
 # Half
+
+
+--- 
+# Course à Pied
+
+### 5 km
+* 2022-06-18: **21:30 (4'18")** Tour de Stade à Biscarrosse
+
+### 10 km
+* 
+
+### 21.1 km
+* 
+
+### 26.5 km
+* 2022-10-20: **2:30:35 (5'41")** Marathon des villages en relais (duo).
+* 2021-10-20: **2:43:30 (6'10")** Marathon des villages en relais (duo).
+
+### 42.2km
+* 2022-09-10: *6:21:37 (8'44")** Marathon du medoc. Douleur à la hanche. On finit en marchant à partir du 25eme km.
