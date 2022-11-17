@@ -60,6 +60,6 @@ En M (1200 de natation, 28 km à vélo et 6,7 km de course à pied) ou en L (220
 
 ### Mont-Blanc
 
-### Geradmer ? dans les vosges
+### Geradmer ? dans les vosges. A 2h de Strasbourg.
 
 ### Sud vendées: aiguillon sur mer. 24 septembre. Moyen
