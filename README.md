@@ -31,3 +31,11 @@
 
 ### 42.2km
 * 2022-09-10: *6:21:37 (8'44")** Marathon du medoc. Douleur à la hanche. On finit en marchant à partir du 25eme km.
+
+# Triathlon à faire:
+
+### Alpes d'Huez
+Départ L: 9h45
+Départ M: 14h15
+![image](https://user-images.githubusercontent.com/62252993/202399616-244a6557-bba8-4d04-b3d0-3acf0b7c45b9.png)
+
