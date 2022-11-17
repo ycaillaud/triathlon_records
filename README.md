@@ -35,9 +35,22 @@
 # Triathlon à faire:
 https://www.opentri.fr/epreuves-france-2021/
 
+### Toursman: 11 juin 2023.
+L : départ 8h..
+M: départ 11H
+
+### Andore et altriman sont à côté à 1 semaine d'écart
+
+* Altriman : 9 juillet M ? 8 juillet le L? (110 euros) 5h de route depuis Bordeaux.
+* Andore: 70.3. 1er juillet 2023 (300 euros :o)
+ https://www.ironman.com/im703-andorra
+ 
+
 ### Cote de granite rose ? 04 juin 2023 ?
 
-### Sable d'Olonne 2024 :/
+### Sable d'Olonne juillet 2024 :/
+
+### Natureman: Gorge du verdon. Mais c'est loin: 7h30 de voitures
 
 ### Alpes d'Huez: Faire un col avant peut-être ?
 Départ L: 9h45
@@ -48,3 +61,5 @@ En M (1200 de natation, 28 km à vélo et 6,7 km de course à pied) ou en L (220
 ### Mont-Blanc
 
 ### Geradmer ? dans les vosges
+
+### Sud vendées: aiguillon sur mer. 24 septembre. Moyen
