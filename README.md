@@ -35,6 +35,8 @@
 # Triathlon à faire:
 https://www.opentri.fr/epreuves-france-2021/
 
+### Sable d'Olonne 2024 :/
+
 ### Alpes d'Huez
 Départ L: 9h45
 Départ M: 14h15
