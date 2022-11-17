@@ -35,9 +35,11 @@
 # Triathlon à faire:
 https://www.opentri.fr/epreuves-france-2021/
 
+### Cote de granite rose ? 04 juin 2023 ?
+
 ### Sable d'Olonne 2024 :/
 
-### Alpes d'Huez
+### Alpes d'Huez: Faire un col avant peut-être ?
 Départ L: 9h45
 Départ M: 14h15
 En M (1200 de natation, 28 km à vélo et 6,7 km de course à pied) ou en L (2200m de natation, 118 km à vélo et 20km de course à pied)
