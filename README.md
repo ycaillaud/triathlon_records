@@ -33,6 +33,7 @@
 * 2022-09-10: *6:21:37 (8'44")** Marathon du medoc. Douleur à la hanche. On finit en marchant à partir du 25eme km.
 
 # Triathlon à faire:
+https://www.opentri.fr/epreuves-france-2021/
 
 ### Alpes d'Huez
 Départ L: 9h45
