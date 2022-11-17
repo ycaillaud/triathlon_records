@@ -32,6 +32,16 @@
 ### 42.2km
 * 2022-09-10: *6:21:37 (8'44")** Marathon du medoc. Douleur à la hanche. On finit en marchant à partir du 25eme km.
 
+# Triathlon 2023
+
+- 16 mai: Carcans. L
+- 04 juin: Cote de granite Rose. M
+- 27 juin: Mimizan. M et S ?
+- 8 juillet: Altriman L
+- 9 Juillet: Libourne M ou L ?
+- 03 septembre: Casteljaloux S
+- 22 septembre: Biscarrosse M
+
 # Triathlon à faire:
 https://www.opentri.fr/epreuves-france-2021/
 
