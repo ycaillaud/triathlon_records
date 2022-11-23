@@ -3,7 +3,7 @@
 | Lieu  | Date          | Natation & T1  | Vélo   | T2   | Course | Temps total | Classement | Commentaires
 | :---- |:-------------:|:------------:|:-----:|:-----:|:-------:|:----------:|:----------:|:----------:|
 | Begles |2021-09-20|6:40 et 3:00  |15:00 |1:00 |12:48|1:04:43| 38:00 |Pas vraiment de puces|
-| ||2:02/100m  |32.3km/h || 5:01/km ||| |
+| ||2:40/100m  |32km/h || 5:07/km ||| |
 
 # S
 
@@ -49,6 +49,7 @@
 
 - 16 mai: Carcans. L
 - 04 juin: Cote de granite Rose. M
+- 10/11 juin: St Lary L ou M ?
 - 27 juin: Mimizan. M et S ?
 - 8 juillet: Altriman L
 - 9 Juillet: Libourne M ou L ?
@@ -61,6 +62,9 @@ https://www.opentri.fr/epreuves-france-2021/
 ### Toursman: 11 juin 2023.
 L : départ 8h..
 M: départ 11H
+
+### Pyrénées: St-Lary
+https://www.triathlondespyrenees.com/triathlon-l
 
 ### Andore et altriman sont à côté à 1 semaine d'écart
 
