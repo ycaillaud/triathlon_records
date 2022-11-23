@@ -1,5 +1,10 @@
 # XS
 
+| Lieu  | Date          | Natation & T1  | Vélo   | T2   | Course | Temps total | Classement | Commentaires
+| :---- |:-------------:|:------------:|:-----:|:-----:|:-------:|:----------:|:----------:|:----------:|
+| Begles |2021-09-20|6:40 et 3:00  |15:00 |1:00 |12:48|1:04:43| 38:00 |Pas vraiment de puces|
+| ||2:02/100m  |32.3km/h || 5:01/km ||| |
+
 # S
 
 | Lieu  | Date          | Natation | T1   | Vélo   | T2   | Course | Temps total | Classement | Commentaires
