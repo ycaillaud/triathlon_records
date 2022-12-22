@@ -33,7 +33,7 @@
 * 2022-06-18: **21:30 (4'18")** Tour de Stade à Biscarrosse
 
 ### 10 km
-* 
+* 2022-12-04: **44:55 (4'30")** 10km d'Arcachon avec Sebastien, Adélie et Audrey. Puis restaurant avec les Gigi.
 
 ### 21.1 km
 * 
