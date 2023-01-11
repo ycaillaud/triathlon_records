@@ -47,7 +47,8 @@
 
 # Programme Triathlon 2023
 
-- 
+- 5 mars: Semi-marathon de Bazas-Langon
+- 18 mars: Raid http://raiddebommes.wifeo.com/inscriptions.php 
 - 16 mai: Carcans. L
 - 04 juin: Cote de granite Rose. M
 - 10/11 juin: St Lary L ou M ?
